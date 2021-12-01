@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "git",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
